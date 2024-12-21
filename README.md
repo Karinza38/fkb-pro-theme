@@ -1,4 +1,4 @@
-# FKB Pro theme
+FKB Pro theme
 
 ![fkbpro](https://user-images.githubusercontent.com/71207900/181922308-5d8bd1df-4514-483a-8c24-1478171f462a.jpg)
 
